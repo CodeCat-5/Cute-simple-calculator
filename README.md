@@ -25,16 +25,16 @@ It helped me understand event handling, UI layout, functions, and styling with c
 ## 🚀 How to Run
 
 1. Make sure you have Python installed (version 3.x).
-2. Download the `cute_calculator.py` file.
+2. Download the `cute_calculator app.py` file.
 3. Run it from your terminal or IDE:
 
 ```bash
-python cute_calculator.py
+python cute_calculator app.py
 ```
 
 ## 🎨 Design Choices
 
-* **Colors:** Light pastel tones (`#fb9aaa`, `#feced6`, `#e9ffe3`, `#fff1f1`) were chosen to create a soft, welcoming aesthetic.
+* **Colors:** Light pastel tones like pinks and greens were chosen to create a soft, welcoming aesthetic.
 * **Font:** Comic Sans MS for a playful vibe.
 * **Hover effect:** Subtle highlight on button hover to mimic soft lighting.
 
