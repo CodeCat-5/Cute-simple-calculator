@@ -19,6 +19,7 @@ It helped me understand event handling, UI layout, functions, and styling with c
 
 ## 💻 Screenshot
 
+![image](https://github.com/user-attachments/assets/2e0e1bb5-03c5-49d1-b220-5574ae67fb6d)
 
 
 ## 🚀 How to Run
