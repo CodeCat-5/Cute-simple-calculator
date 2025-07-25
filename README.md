@@ -1,4 +1,4 @@
-# Cute-simple-calculator
+
 # 🎀 Cute Simple Calculator
 
 A pastel-themed calculator built with Python and Tkinter.
