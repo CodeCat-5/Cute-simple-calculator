@@ -47,4 +47,5 @@ python cute_calculator app.py
 This project was inspired by an tutorial from "NeuralNine"  but I modified parts of the code, added custom design elements, and used it as practice to build my own version as a beginner.
 
 Made with ❤️ by Codecat
+
 If you liked this project, feel free to ⭐️ it or give feedback!
